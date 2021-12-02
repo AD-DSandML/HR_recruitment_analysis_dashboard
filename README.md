@@ -38,7 +38,7 @@ This project deals with 4 years of HR data(source data) which has been collected
 - Create a pivot table 
 - Name the table - Actives
 - Group the dates by year and quarter
-  ![actives1](https://user-images.githubusercontent.com/80168505/144275798-b42244ea-85c0-481c-a82c-6a3f540191bc.png)
+    ![actives1](https://user-images.githubusercontent.com/80168505/144275798-b42244ea-85c0-481c-a82c-6a3f540191bc.png)
 - Create 2 new measures
 1. Active Employees
 ![actives2](https://user-images.githubusercontent.com/80168505/144276665-a8e0cce9-91c5-429e-bde9-7c07491b4125.png)
