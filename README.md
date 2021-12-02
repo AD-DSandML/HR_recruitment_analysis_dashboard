@@ -2,11 +2,10 @@
 # HR Management Analysis 
 
 ## Project Description:
-This project deals with 4 years of HR data(source data) which has been collected from a company's HR Database.The data contains each and every information related to the employees of that company.Now our aim in this project is to design a HR Management Dashboard in Excel which will provide a proper insight about the employees and the company's HR management status.
+This project deals with 4 years of HR data(source data) which has been collected from a company's HR Database.The data contains each and every information related to the employees of that company.Now our aim in this project is to design a HR Management Dashboard in Excel which will provide a proper insight about the employees and the company's HR management status.All the data are present in the "HR_Source_Data" folder.
 
 ## Project Requirement:
-- Create a data connection using power query from the source folder where the monthly HR records are present.
-- Build an interactive Dashboard using this data which will visualize the following analysis-
+- Build an interactive Dashboard using the source data folder which will visualize the following analysis-
     
             1.Yearly and quarterly new hires and the active employees.
             2.Full time and Part time active employees, classified based on the ethnic group and gender.
@@ -17,6 +16,7 @@ This project deals with 4 years of HR data(source data) which has been collected
             7.In the dashboard headline section provide some informative statistics which will include-
               % of Male and Female employees in total employees,% of male and female according to pay type,Job type(Full time or part time),age group and turnover(yearly termination per active employee ).
 - Add some necessary slicers to the Dashboard.
+- The Dashboard should be dyanmic so that whenever new HR data is added to the source folder, the Dashboard gets updated automatically.
 
 ## Project Walkthrough:
 ### Insert the data from the source folder:
