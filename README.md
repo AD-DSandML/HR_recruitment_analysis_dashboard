@@ -16,21 +16,22 @@ This project deals with 4 years of HR data(source data) which has been collected
             6.Average tenure months classified based on ethnic group and gender.
             7.In the dashboard headline section provide some informative statistics which will include-
               % of Male and Female employees in total employees,% of male and female according to pay type,Job type(Full time or part time),age group and turnover(yearly termination per active employee ).
+- Add some necessary slicers to the Dashboard.
 
 ## Project Walkthrough:
 ### Insert the data from the source folder:
 
 ![insert data](https://user-images.githubusercontent.com/80168505/144270922-ee303a12-1bcc-481a-a2aa-a8f3ef628b15.png)
 
-### Combine and transfrom the data to power query editor:
+### Combine and transfrom the data:
 
 ![combine and tranform data](https://user-images.githubusercontent.com/80168505/144271297-8276b88e-b2d2-46b1-8be6-5b0ae24e6879.png)
 
-### Made some necessary changes and formating in the query editor:
+### Made some necessary changes in the query editor:
 
 ![power query editor](https://user-images.githubusercontent.com/80168505/144271633-3020e9de-1342-4822-92fd-9bac99e95b57.png)
 
-### Close the query and load the data keeping the data connection only and adding the data to the data model:
+### Close the query and load the data, keeping the data connection only and adding the data to the data model:
 
 ![query save and close option](https://user-images.githubusercontent.com/80168505/144273651-22fa6936-60d0-434f-a8c9-4526e6b427a7.png)
 
@@ -80,7 +81,7 @@ This project deals with 4 years of HR data(source data) which has been collected
 ![region1](https://user-images.githubusercontent.com/80168505/144293033-6a0286a2-c75e-4292-9eb1-de96ae194432.png)
 - Insert a horizontal bar chart
 ![region2](https://user-images.githubusercontent.com/80168505/144293437-59540375-a905-4d29-ad86-24f8f3a62805.png)
-### Create a chart of average Tenure in months:
+### Create a chart of average Tenure (in months):
 - Create a new measure and name it "Avg. Tenure Months", which basically calculates avg. tenure of employees
 ![tenure1](https://user-images.githubusercontent.com/80168505/144294725-8dee23de-d405-4f09-889e-8489c26b07f4.png)
 - Create a pivot table
@@ -90,7 +91,7 @@ This project deals with 4 years of HR data(source data) which has been collected
 ![tenure2](https://user-images.githubusercontent.com/80168505/144295247-354ffd92-462f-4c3d-967e-9898a65f5848.png)
 - Insert a bar chart
 ![tenure3](https://user-images.githubusercontent.com/80168505/144295484-191ec16d-7532-4152-b78e-3c1522f48a93.png)
-### Create a Dashboard sheet and move charts:
+### Create a Dashboard sheet and paste the above created charts:
 - Create a separate sheet for building the final Dashboard
 - Move all the charts to this Dashboard sheet
 - In the dashboard headline section insert some informative statistics along with the visualization-
