@@ -16,7 +16,7 @@ This project deals with 4 years of HR data(source data) which has been collected
             7.In the dashboard headline section provide some informative statistics which will include-
               % of Male and Female employees in total employees,% of male and female according to pay type,Job type(Full time or part time),age group and turnover(yearly termination per active employee ).
 - Add some necessary slicers to the Dashboard.
-- The Dashboard should be dyanmic so that whenever new HR data is added to the source folder, the Dashboard gets updated automatically.
+- The Dashboard should be dynamic so that whenever new HR data is added to the source folder, the Dashboard gets updated automatically.
 
 ## Project Walkthrough:
 ### Insert the data from the source folder:
